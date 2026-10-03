@@ -1,0 +1,8 @@
+playwright
+python-dotenv
+pytesseract
+Pillow
+jdatetime
+numpy
+PySide6
+pyqtgraph
